@@ -1,12 +1,12 @@
 {
-    "name": "tu6ge/voyager-excel",
+    "name": "ahmedelarabykhaled/voyager-excel",
     "description": "voyager excel export hook",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "tu6ge",
-            "email": "772364230@qq.com"
+            "name": "ahmedelarabykhaled",
+            "email": "ahmedelarabykhaled2020@yahoo.com"
         }
     ],
     "require": {
